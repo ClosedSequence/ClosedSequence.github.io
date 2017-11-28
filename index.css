@@ -1,3 +1,7 @@
 .n8navbar {
   background-color: #fff;
+  transition: 0.5s ease;
+}
+.n8navbar:hover {
+  background-color: #ef5350;
 }
